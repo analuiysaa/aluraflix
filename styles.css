@@ -2,7 +2,12 @@ body {
     color: rgb(166, 201, 247);
     background: rgb(147, 144, 184);
     margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
+    font-family:.unifrakturmaguntia-regular {
+  font-family: "UnifrakturMaguntia", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+;
     margin-bottom: 100px;
 }
 
