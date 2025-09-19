@@ -1,5 +1,5 @@
 body {
-    color: rgb(166, 201, 247);
+    color: rgb(56, 69, 87);
     background: rgb(147, 144, 184);
     margin: 0px;
     font-family:.unifrakturmaguntia-regular {
@@ -15,11 +15,11 @@ header {
     border-bottom: solid 2px rgb(123, 132, 145);
     padding: 20px;
     font-size: 32px;
-    color: rgb(97, 130, 173);
+    color: rgb(128, 153, 185);
 }
 
 .chamada {
-    background: rgb(190, 194, 218);
+    background: rgb(102, 106, 128);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -57,9 +57,9 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid green;
+    border: 3px solid rgb(26, 16, 54);
 }
 
 .categoria h2 {
-    color: rgb(42, 122, 228);
+    color: rgb(96, 122, 156);
 }
