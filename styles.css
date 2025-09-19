@@ -1,6 +1,6 @@
 body {
     color: rgb(56, 69, 87);
-    background: rgb(147, 144, 184);
+    background: rgb(99, 95, 109);
     margin: 0px;
     font-family:.unifrakturmaguntia-regular {
   font-family: "UnifrakturMaguntia", cursive;
@@ -12,14 +12,14 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(123, 132, 145);
+    border-bottom: solid 2px rgb(139, 144, 189);
     padding: 20px;
     font-size: 32px;
-    color: rgb(128, 153, 185);
+    color: rgb(138, 153, 173);
 }
 
 .chamada {
-    background: rgb(102, 106, 128);
+    background: rgb(207, 210, 228);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
